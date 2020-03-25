@@ -1,0 +1,15 @@
+.post {
+    background: #FFF;
+    padding-bottom: 15px;
+    .post-user {
+        height: 30px;
+        display: flex;
+        align-items: center;
+    }
+    .post-picture {
+        width: 100%;
+        .post-image {
+            width: 100%;
+        }
+    }
+}
