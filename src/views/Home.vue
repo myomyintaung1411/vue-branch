@@ -14,6 +14,7 @@
       </footer>
     </article>
     <button @click="logout">Logout</button>
+    <h1>testing for git</h1>
   </main>
 </template>
 
